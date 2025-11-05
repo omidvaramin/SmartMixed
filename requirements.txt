@@ -1,0 +1,29 @@
+# Core ML and Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+
+# Data manipulation and analysis
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Scientific computing and utilities
+scikit-learn>=1.0.0
+
+# Excel file handling (for aggregator.py)
+openpyxl>=3.0.0
+
+# Additional utilities
+pathlib2>=2.3.0  # For Python < 3.4 compatibility (if needed)
+
+# Optional: For better performance and CUDA support
+# Uncomment the following if you need CUDA support:
+# torch-audio>=2.0.0  # If using audio processing
+# torch-text>=0.15.0  # If using text processing
+
+# Development and testing (optional)
+# pytest>=6.0.0
+# pytest-cov>=2.10.0
