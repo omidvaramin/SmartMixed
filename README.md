@@ -1,4 +1,4 @@
-# SmartMixed: Adaptive Activation Function Neural Network
+# SmartMixed: A Two-Phase Training Strategy for Adaptive Activation Function Learning in Neural Networks
 
 This repository implements **SmartMixed**, a novel two-phase training strategy for adaptive activation function learning in neural networks. The approach combines adaptive activation selection with a sophisticated training methodology, where each neuron can learn its optimal activation function from a pool (ReLU, Sigmoid, Tanh, Leaky ReLU, ELU, SELU) using a Gumbel-Softmax mechanism.
 
